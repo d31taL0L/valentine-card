@@ -77,7 +77,7 @@ body {
 .card {
   width: 380px;
   max-width: 92vw;
-  height: 500px;
+  height: 550px;
   border-radius: 18px;
   position: relative;
   transform-style: preserve-3d;
@@ -111,7 +111,7 @@ body {
 .back {
   background: #1c1b33;
   transform: rotateY(180deg);
-  padding: 30px 26px;
+  padding: 20px 22px;
 }
 
 .front-title {
@@ -127,7 +127,7 @@ body {
 }
 
 .big-heart-emoji {
-  font-size: 140px; 
+  font-size: 140px;
   line-height: 1;
   margin: 10px auto 26px;
   animation: pulse-simple 1.8s ease-in-out infinite;
@@ -154,22 +154,22 @@ body {
 }
 
 .back-title {
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 700;
-  margin-bottom: 18px;
+  margin-bottom: 14px;
   color: #ffdde1;
 }
 
 .back-text {
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1.5;
-  margin-bottom: 22px;
+  margin-bottom: 18px;
   opacity: 0.95;
 }
 
 .reason {
-  font-size: 14px;
-  margin-bottom: 8px;
+  font-size: 13px;
+  margin-bottom: 6px;
   opacity: 0.9;
 }
 
